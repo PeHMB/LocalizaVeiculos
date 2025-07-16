@@ -23,4 +23,4 @@ foreach (var c in lista)
     }
 
 Console.ReadLine();
-        }
+        
